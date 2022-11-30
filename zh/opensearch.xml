@@ -4,8 +4,8 @@
   <ShortName>Serverless-App</ShortName>
   <Description>Search Serverless-App</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://serverless-app.com/zh/img/favicons/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://serverless-app.com/zh/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://serverless-app.com/zh/opensearch.xml" />
-  <moz:SearchForm>https://serverless-app.com/zh/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://serverless-app-com.github.io/serverless-app/zh/img/favicons/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://serverless-app-com.github.io/serverless-app/zh/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://serverless-app-com.github.io/serverless-app/zh/opensearch.xml" />
+  <moz:SearchForm>https://serverless-app-com.github.io/serverless-app/zh/</moz:SearchForm>
 </OpenSearchDescription>
