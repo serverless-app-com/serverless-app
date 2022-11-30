@@ -1,9 +1,0 @@
-[
-    {
-        "type": "comment",
-        "name": "assign",
-        "allowUsers": [
-            "*"
-        ]
-    }
-]
